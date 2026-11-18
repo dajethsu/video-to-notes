@@ -1,0 +1,6 @@
+bin/
+models/
+data/
+video-notes/
+node_modules/
+*.part
