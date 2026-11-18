@@ -1,8 +1,8 @@
 # video-to-notes
 
-把 YouTube、Bilibili 或本機影片轉成**繁體中文字幕、完整逐字稿文章和筆記**的 agent skill，Claude Code 和 Codex 都能用。
+**繁體中文** | [English](README.en.md)
 
-Turn YouTube, Bilibili, or local videos into Traditional Chinese subtitles, a full transcript article, and study notes. Works as a skill for Claude Code and Codex.
+把 YouTube、Bilibili 或本機影片轉成**繁體中文字幕、完整逐字稿文章和筆記**的 agent skill，Claude Code 和 Codex 都能用。
 
 ## 產出
 
